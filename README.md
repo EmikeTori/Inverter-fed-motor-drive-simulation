@@ -14,7 +14,7 @@ This project is a MATLAB/Simulink simulation of a traction-style electric drive.
 - Document the results, assumptions and limitations, with all figures reproducible from the repository.
 
 #System Architecture
-[To be added after the system architecture has been established.]
+{To be added after the system architecture has been established.}
 
 #Tools and Technologies
 - MATLAB (Version)
@@ -45,7 +45,3 @@ Docs  #Technical documentation
 
 #Acknowledgements and references
 {List any MathWorks examples, books or papers you use, and what you adapted from them.}
-
-
-├── presentation/       # Project presentation
-└── README.m
